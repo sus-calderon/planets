@@ -1,0 +1,3 @@
+#just type in what files you want to ignore
+*.dat
+results/
